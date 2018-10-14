@@ -1,1 +1,1 @@
-# b_gorkovenko
+# b_gorkovenko - Богдан Горковенко
